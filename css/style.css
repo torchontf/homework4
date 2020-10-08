@@ -155,8 +155,7 @@ header p{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  margin: auto;
-  align-content: center;
+  align-self: center;
   /* position: absolute;
   top: 50%;
   -ms-transform: translateY(-50%);
@@ -169,7 +168,6 @@ header p{
   nav{
     padding: 30px 0px;
     /*Your code here:*/
-    /* float: right; */
     text-align: right;
   }
 
